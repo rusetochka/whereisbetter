@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whereisbetter/static/css/main.7da0a02e.chunk.css",
+    "main.js": "/whereisbetter/static/js/main.3a6a1db9.chunk.js",
+    "main.js.map": "/whereisbetter/static/js/main.3a6a1db9.chunk.js.map",
+    "runtime-main.js": "/whereisbetter/static/js/runtime-main.740064a8.js",
+    "runtime-main.js.map": "/whereisbetter/static/js/runtime-main.740064a8.js.map",
+    "static/js/2.3be63bc6.chunk.js": "/whereisbetter/static/js/2.3be63bc6.chunk.js",
+    "static/js/2.3be63bc6.chunk.js.map": "/whereisbetter/static/js/2.3be63bc6.chunk.js.map",
+    "static/js/3.2573258b.chunk.js": "/whereisbetter/static/js/3.2573258b.chunk.js",
+    "static/js/3.2573258b.chunk.js.map": "/whereisbetter/static/js/3.2573258b.chunk.js.map",
+    "index.html": "/whereisbetter/index.html",
+    "static/css/main.7da0a02e.chunk.css.map": "/whereisbetter/static/css/main.7da0a02e.chunk.css.map",
+    "static/js/2.3be63bc6.chunk.js.LICENSE.txt": "/whereisbetter/static/js/2.3be63bc6.chunk.js.LICENSE.txt",
+    "static/media/MainScreen.css": "/whereisbetter/static/media/background_search_mobile.05128a5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.740064a8.js",
+    "static/js/2.3be63bc6.chunk.js",
+    "static/css/main.7da0a02e.chunk.css",
+    "static/js/main.3a6a1db9.chunk.js"
+  ]
+}
